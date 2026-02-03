@@ -23,20 +23,23 @@ This feature cannot be passed onto a half-orc.
 **Trance**. [[Trance]]. 
 
 **Lineage specific**
+
 *Desert orcs*
-**Survivalist**. You have proficiency in survival.
-**Unexpendable**. You exhaustion is considered to be one level lower.
-**Shamaniac**. When you cast divination or enchantment spells of lvl 3 or less that have concentration, you can extend their duration for as long as you maintain concentration.
+* ***Survivalist**. You have proficiency in survival.
+* **Unexpendable**. You exhaustion is considered to be one level lower.
+* **Shamaniac**. When you cast divination or enchantment spells of lvl 3 or less that have concentration, you can extend their duration for as long as you maintain concentration.
+
 *Forest orcs*
-**Naturalist**. You have proficiency in nature.
-**Swift**. You climbing speed equals your movement.
-**Unbound**. Your melee reach is 5 feet longer.
+* **Naturalist**. You have proficiency in nature.
+* **Swift**. You climbing speed equals your movement.
+* **Unbound**. Your melee reach is 5 feet longer.
+
 *Snow orcs*
-**Heartwarming**. You have resistance to cold damage.
-**Savvy**. You have proficiency in wisdom saving throws.
-**Vitality**. You gain a d12 hit die. This hit die gives you temp hp. At lvl 14 you gain one more hit die.
+* **Heartwarming**. You have resistance to cold damage.
+* **Savvy**. You have proficiency in wisdom saving throws.
+* **Vitality**. You gain a d12 hit die. This hit die gives you temp hp. At lvl 14 you gain one more hit die.
 
 
-**Half-orcs**. While orcs ain't a playable species, there are half-orcs. You can choose 3 features from orcs and 1 from another humanoid (default)\*. If both your parents posses the same feature, you have to take it. If you pick a feature from orc lineage, you can't pick features from other lineages. You can't choose affinity**.
+**Half-orcs**. While orcs ain't a playable species, there are half-orcs. You can choose 3 features from orcs and 1 from another humanoid (default)\*. If you pick a feature from orc lineage, you can't pick features from other lineages. You can't choose affinity**.
 
 \* you can also take 2 and 2, but only if the 2 features from your non-orc parent are tied (mechanically or thematically) and your non-orc parent has a planar affinity, ** in which case you get that affinity as well, otherwise you gain primal affinity, if your non-orc parent also has primal affinity, or none

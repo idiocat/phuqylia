@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Rule stuff/Species/Default/Orcs and Half-orcs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Orcs and Half-orcs"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "index.md",
     "category-folder/Some note.md",
     "Rule stuff/Spells/Brute Hand.md",
     "Rule stuff/Spells",
@@ -198,7 +199,6 @@
     "Rule stuff/Species/Default/Humans.md",
     "Rule stuff/Species/Default/Goliaths.md",
     "Rule stuff/Species/Default/Goblins.md",
-    "Rule stuff/Species/Default/Gnomes.md",
     "Rule stuff/Species/Default/Elves",
     "Rule stuff/Species/Default/Beastkin",
     "Rule stuff/Species/Reptiloids",
