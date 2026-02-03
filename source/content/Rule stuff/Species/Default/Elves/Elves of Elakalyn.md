@@ -29,58 +29,64 @@
 
 \* The elves of Elakalyn are rather whimsical, changing their personality depending on their season. The following (kinda) tables offer personality suggestions for elves of Elakalyn for each season. You can roll on the tables or use them as inspiration for characteristics of your own.
 
+
 *Autumn*
 
-d4	Autumn Personality Trait
-1	Every day is the greatest day of your life.
-2	You approach everything with enthusiasm, even the most mundane chores.
-3	You love music and song. You supply a tune yourself if no one else can.
-4	You can't stay still.
+| d4  | Autumn Personality Trait                                                |
+| --- | ----------------------------------------------------------------------- |
+| 1   | Every day is the greatest day of your life.                             |
+| 2   | You approach everything with enthusiasm, even the most mundane chores.  |
+| 3   | You love music and song. You supply a tune yourself if no one else can. |
+| 4   | You can't stay still.                                                   |
 
-d4	Autumn Flaw
-1	You overdrink.
-2	Toil is for drudges. Yours should be a life of leisure.
-3	A pretty face infatuates you in an instant, but your fancy passes with equal speed.
-4	Anything worth doing is worth doing again and again.
-
+| d4  | Autumn Flaw                                                                         |
+| --- | ----------------------------------------------------------------------------------- |
+| 1   | You overdrink.                                                                      |
+| 2   | Toil is for drudges. Yours should be a life of leisure.                             |
+| 3   | A pretty face infatuates you in an instant, but your fancy passes with equal speed. |
+| 4   | Anything worth doing is worth doing again and again.                                |
 *Winter*
 
-d4	Winter Personality Trait
-1	If someone is in need, you never withhold aid.
-2	You share what you have, with little regard for your own needs.
-3	There are no simple meals, only lavish feasts.
-4	You stock up on fine food and drink. You hate going without such comforts.
+| d4  | Winter Personality Trait                                                   |
+| --- | -------------------------------------------------------------------------- |
+| 1   | If someone is in need, you never withhold aid.                             |
+| 2   | You share what you have, with little regard for your own needs.            |
+| 3   | There are no simple meals, only lavish feasts.                             |
+| 4   | You stock up on fine food and drink. You hate going without such comforts. |
 
-d4	Winter Flaw
-1	You trust others without a second thought.
-2	You give to others, to the point that you leave yourself without necessary supplies.
-3	Everyone is your friend, or a potential friend.
-4	You spend excessively on creature comforts.
-
+| d4  | Winter Flaw                                                                          |
+| --- | ------------------------------------------------------------------------------------ |
+| 1   | You trust others without a second thought.                                           |
+| 2   | You give to others, to the point that you leave yourself without necessary supplies. |
+| 3   | Everyone is your friend, or a potential friend.                                      |
+| 4   | You spend excessively on creature comforts.                                          |
 *Spring*
 
-d4	Spring Personality Trait
-1	The worst case is the most likely to occur.
-2	You preserve what you have. Better to be hungry today and have food for tomorrow.
-3	Life is full of dangers, but you are ready for them.
-4	A penny spent is a penny lost forever.
+| d4  | Spring Personality Trait                                                          |
+| --- | --------------------------------------------------------------------------------- |
+| 1   | The worst case is the most likely to occur.                                       |
+| 2   | You preserve what you have. Better to be hungry today and have food for tomorrow. |
+| 3   | Life is full of dangers, but you are ready for them.                              |
+| 4   | A penny spent is a penny lost forever.                                            |
 
-d4	Spring Flaw
-1	Everything dies eventually. Why bother building anything that is supposedly meant to last?
-2	Nothing matters to you, and you allow others to guide your actions.
-3	Your needs come first. In this harsh world, all must watch out for themselves.
-4	You speak only to point out the flaws in others' plans.
-
+| d4  | Spring Flaw                                                                                |
+| --- | ------------------------------------------------------------------------------------------ |
+| 1   | Everything dies eventually. Why bother building anything that is supposedly meant to last? |
+| 2   | Nothing matters to you, and you allow others to guide your actions.                        |
+| 3   | Your needs come first. In this harsh world, all must watch out for themselves.             |
+| 4   | You speak only to point out the flaws in others' plans.                                    |
 *Summer*
 
-d4	Summer Personality Trait
-1	You believe that direct confrontation is the best way to solve problems.
-2	Overwhelming force can accomplish almost anything. The tougher the problem, the more force you apply.
-3	You stand tall and strong so that others can lean on you.
-4	You maintain an intimidating front. It's better to prevent fights with a show of force than to harm others.
+| d4  | Summer Personality Trait                                                                                    |
+| --- | ----------------------------------------------------------------------------------------------------------- |
+| 1   | You believe that direct confrontation is the best way to solve problems.                                    |
+| 2   | Overwhelming force can accomplish almost anything. The tougher the problem, the more force you apply.       |
+| 3   | You stand tall and strong so that others can lean on you.                                                   |
+| 4   | You maintain an intimidating front. It's better to prevent fights with a show of force than to harm others. |
 
-d4	Summer Flaw
-1	You are stubborn. Let others change.
-2	The best option is one that is swift, unexpected, and overwhelming.
-3	Punch first. Talk later.
-4	Your fury can carry you through anything.
+| d4  | Summer Flaw                                                         |
+| --- | ------------------------------------------------------------------- |
+| 1   | You are stubborn. Let others change.                                |
+| 2   | The best option is one that is swift, unexpected, and overwhelming. |
+| 3   | Punch first. Talk later.                                            |
+| 4   | Your fury can carry you through anything.                           |

@@ -1,5 +1,3 @@
-* [[Elves]]
-* [[Beastkin]] (WIP)
-* Other [[Default]] humanoids
+* [[Default]]
 * [[Insectoids]]
 * [[Reptiloids]]

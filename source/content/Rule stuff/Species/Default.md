@@ -1,4 +1,6 @@
+* [[Beastkin]] (WIP)
 * [[Dwarves]]
+* [[Elves]]
 * [[Goblins]]
 * [[Gnomes]]
 * [[Goliaths]]
