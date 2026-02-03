@@ -50,7 +50,7 @@
 
 **Jumping**. A creature can jump over their speed limit, they'll be suspended in the air until the start of their next turn, at which point they have to continue the jump. While airborne, attacks against you have advantage.
 
-**Falling**. Fall damage is capped at 150d6; creatures can make acrobatics checks to avoid damage as well as prone condition.
+**Falling**. Fall damage is capped at 150d6; creatures can make acrobatics checks to avoid being prone and halve the damage.
 
 | distance | dc  |
 | -------- | --- |
