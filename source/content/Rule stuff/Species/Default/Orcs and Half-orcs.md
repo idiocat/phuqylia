@@ -6,12 +6,7 @@
 **Primal Affinity**. Choose a skill you're proficient in. Whenever you roll a skill check, add d6. You can change this skill once a week.
 
 **Intolerance**. Whenever you perceive another non-orc/non-insectoid humanoid, you go into rage. While in rage, you gain the following.
-*Damage Resistance*: you have resistance to all damage, except psychic and acid.
-*Rage Damage*: if you add proficiency to the damage dealt, add it again.
-*Damage Affliction*: you have advantage on attack rolls, and attack rolls against you have advantage.
-*Unstoppable*: while making death saving throws, you can act normally.
-*No Concentration*: you can't maintain concentration.
-The rage only can and will end when the humanoid(s) are no longer around you (as far as you're aware).
+\[readacted]
 This feature cannot be passed onto a half-orc.
 
 
