@@ -1,0 +1,7 @@
+[[Dwarves]]
+[[Goblins]]
+[[Gnomes]]
+[[Goliaths]]
+[[Humans]] and [[Aasimars]]
+[[Orcs and Half-orcs]]
+[[Tieflings]]

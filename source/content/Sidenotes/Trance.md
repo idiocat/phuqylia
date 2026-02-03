@@ -1,0 +1,1 @@
+You don't need to sleep. Instead you meditate, remaining semiconscious and somewhat aware of your surroundings, for 6/4 hours a day. You also have resistance/immunity to magical sleep effects. If you have more than 1 instance of this trait, use the latter.
