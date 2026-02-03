@@ -6,7 +6,7 @@
 **Primal Affinity**. Choose a skill you're proficient in. Whenever you roll a skill check, add d6. You can change this skill once a week.
 
 **Intolerance**. Whenever you perceive another non-orc/non-insectoid humanoid, you go into rage. While in rage, you gain the following.
-[readacted]
+\[redacted]
 This feature cannot be passed onto a half-orc.
 
 
