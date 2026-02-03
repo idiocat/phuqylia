@@ -1,3 +1,3 @@
-**Primal Growth**. After multiple long meditations/training sessions, you can choose a virtue (it's like an extra feat or a magical item (without the actual item), you can decide what it does, however your decision may be subjected to perversion by dm). You can have up to {your proficiency bonus} active virtues.
+**Primal Will**. Once per long rest, when you make a {your ~~spellcasting~~ focus ability} save throw, you can treat that roll as a nat20.
 
-**Primal Punch**. You know Counterspell and Dispel Magic. You can cast them without any components, expanding 1 focus point per lvl of spell, but no more than half your monk lvl. The range of these spells for you is touch (e.g., you can break a fireball with a punch or slap a creature out of Charmed effect).
+**Primal Punch**. You know Counterspell and Dispel Magic. You can cast them without any components, expanding 1 focus point per lvl of spell, but no more than half your monk lvl. The range of these spells for you is touch (e.g., you can break a fireball with a punch or slap a creature out of Charmed effect). You can expand an additional focus point and replace one of your attacks with a spell from this feature.
