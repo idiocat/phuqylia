@@ -3,11 +3,11 @@
 **Life expectancy**: 30 years
 **Speed**: 20 feet (walk, swim)
 
-**Jumpy**. Your legs are made for jumping, not walking. When you jump, you spend 1 ft, of ms per 2 ft. of distance covered* (if your str is less than 10, consider it to be 10 for the purpose of jumping), and you suffer no penalties if you jump without acceleration. Also, you have resistance against falling damage. Also, you can use a reaction to remove advantage given by your airborne status on 1 attack.
+**Jumpy**. Your legs are made for jumping, not walking. When you jump, you spend 1 ft, of movement per 2 ft. of distance covered* (if your str is less than 10, consider it to be 10 for the purpose of jumping), and you suffer no penalties if you jump without acceleration. Also, you have resistance against falling damage. Also, you can use a reaction to remove advantage given by your airborne status on 1 attack.
 
 **Watery**. You’re a moist boy. You need some water on your skin at least once a week; if you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of exhaustion at the end of that day. You can only recover from this exhaustion through magic or by immersing yourself in water for at least 1 hour. Also, you can breathe air and water.
 
-**Magically attuned**. You learn 2 cantrips of your choice from the sorcerer spell list. The damage of these cantrips must be one of the Damage Types from Fragon Ancestry table. The spellcasting ability for these cantrips is Constitution.
+**Magically attuned**. You learn 2 cantrips of your choice from the sorcerer spell list. The damage of these cantrips must be the respective Damage Types from Fragon Ancestry table. The spellcasting ability for these cantrips is Constitution.
 
 **Fragon Ancestry**. Your ancestry is tied to one of the greatest forces of primal and arcane (your choice affects your appearance and character quirk):
 

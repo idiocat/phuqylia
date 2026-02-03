@@ -11,7 +11,7 @@
 
 **Land Affinity**. Goliath have a close connection to the place of their birth. Choose one of the following benefits — a primordial boon; you can use the chosen benefit {prof.} times per Long Rest:
 
-* **The Glacial Expanse** (ice sheet, snow land, tundra). When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its ms by 10 feet until the start of your next turn.
+* **The Glacial Expanse** (ice sheet, snow land, tundra). When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its movement by 10 feet until the start of your next turn.
 * **The Whispering Flatlands** (grassland, steppe, chaparral). When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.
 * **The Gilded Wastes** (desert, scrubland, savanna). When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.
 * ==**The Verdant Veils**== (temperate forest, rainforest, boreal forest). When you take a hide action, you can create an illusion and make yourself look like a tree of about the same size. You have advantage against being discovered while hidden in this way.

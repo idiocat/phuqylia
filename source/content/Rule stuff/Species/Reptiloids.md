@@ -1,2 +1,2 @@
-[[Fragonborn]]
-[[Nagas]]
+* [[Fragonborn]]
+* [[Nagas]]

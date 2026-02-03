@@ -20,7 +20,7 @@
 
 **Critical Immunity**. Now makes an attacker reroll its damage die if they max roll. This would turn a brutal crit into a normal crit.
 
-**Death Saves**. While making death saves, a creature can remain semi-conscious if they succeed on a dc {10 or half the damage taken, whichever is higher} con save. They cannot take reactions or cast lvled spells, and during their turn they can only perform one of the following: action, bonus action or move up to {ms/3} (minimum of 10 ft). Some actions (like attacking) will reward a creature with auto failed death saves. Also, pm ur ds to dm.
+**Death Saves**. While making death saves, a creature can remain semi-conscious if they succeed on a dc {10 or half the damage taken, whichever is higher} con save. They cannot take reactions or cast lvled spells, and during their turn they can only perform one of the following: action, bonus action or move up to {movement/3} (minimum of 10 ft). Some actions (like attacking) will reward a creature with auto failed death saves. Also, pm ur ds to dm.
 
 **Healing Potions**. Bonus action to roll the healing, action to max out the healing.
 

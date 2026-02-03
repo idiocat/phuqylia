@@ -3,7 +3,7 @@
 **Life expectancy**: 200 years
 **Speed**: 20 ft (walk, swim)
 
-**Slithery**. Instead of legs, you have a tail and you move around by slithering. Your ms is doubled in water and on wet surfaces. However, you cannot accelerate before jumping.
+**Slithery**. Instead of legs, you have a tail and you move around by slithering. Your movement is doubled in water and on wet surfaces. However, you cannot accelerate before jumping.
 
 **Watery**. You’re a moist boy. You need some water on your skin at least once a week; if you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of exhaustion at the end of that day. You can only recover from this exhaustion through magic or by immersing yourself in water for at least 1 hour. Also, you can breathe air and water.
 

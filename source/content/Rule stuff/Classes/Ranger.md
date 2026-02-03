@@ -3,12 +3,12 @@ The spirit is vulnerable to acid damage, resistant to psychic, radiant, necrotic
 
 Your spirit can concentrate on Hunter's Mark, but in this case its extra damage is reduced to d4. Starting at lvl 9, you can use your reaction to reapply Hunter's Mark.
 
-**Bull's Eye**. Whenever you cast hunter's mark, you receive a spellcasting related bonus ([[Magic Bullshit]]) and its effect also applied to the hunter's mark.
+**Bull's Eye**. Whenever you cast hunter's mark, you receive a spellcasting related bonus ([[Magic Bullshit]]) and its effect is also applied to the hunter's mark.
 
 Also, your spellcasting ability is either wisdom or charisma and your spirit is an arcane focus.
 
 The following features are changed so that they suck less:
 
-**Lvl 13: Attuned Hunter**. Once per short rest you can ask the spirit for an advice. Roll insight or persuasion against spell save DC, if you succeed you gain +2 to your spellcasting checks. Also, the damage of Hunter's Mark is increased to d10 when you concentrate on it, or to d6 when the spirit does.
+**Lvl 13: Attuned Hunter**. Once per short rest you can ask the spirit for a piece of advice. Roll insight or persuasion against your spell save DC, if you succeed you gain +2 to your spellcasting checks. Also, the damage of Hunter's Mark is increased to d10 when you concentrate on it, or to d6 when the spirit does.
 
 **Lvl 20: Foe Slayer**. The damage die of your Hunter's Mark is a d12, no matter who concentrates on it.

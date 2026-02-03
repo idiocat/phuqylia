@@ -3,9 +3,9 @@
 **Life expectancy**: 80 years
 **Speed**: 30 ft
 
-==**Celestial Allotment**==. You were born as a chosen of the heavens. You destiny is already written. You must follow the calling and fulfil your purpose to the best of your abilities. Your alignment is Good. If your alignment is changed or you defy your higher-ups, you'll lose all your ***celestial*** features (it's fine, rebellion is an option).
+**==Celestial Allotment==**. You were born as a chosen of the heavens. You destiny is already written. You must follow the calling and fulfil your purpose to the best of your abilities. Your alignment is Good. If your alignment is changed or you defy your higher-ups, you'll lose all your ***celestial*** features (it's fine, rebellion is an option).
 
-==**Celestial Affinity**==. Instead of rolling for the amount of hp healed, apply the maximum possible. This can be used once per long rest, as a reaction, on a creature that is receiving healing and that you can see within 30 feet.
+**==Celestial Affinity==**. Instead of rolling for the amount of hp healed, apply the maximum possible. This can be used once per long rest, as a reaction, on a creature that is receiving healing and that you can see within 30 feet.
 
 **Celestial Resistance**. You have Resistance to ==Necrotic== damage.
 
