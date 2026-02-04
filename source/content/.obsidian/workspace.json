@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin/Cowkin ― Children of Boss Taro.md",
+                "file": "Rule stuff/Species/Default/Beastkin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cowkin ― Children of Boss Taro"
+              "title": "Beastkin"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin/Cowkin ― Children of Boss Taro.md",
+                "file": "Rule stuff/Species/Default/Beastkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cowkin ― Children of Boss Taro"
+              "title": "Backlinks for Beastkin"
             }
           },
           {
@@ -192,6 +192,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Rule stuff/Species/Default/Beastkin/Cowkin ― Children of Boss Taro.md",
     "Rule stuff/Species/Insectoids/Antalians.md",
     "Rule stuff/Species/Insectoids/Shrimple.md",
     "Rule stuff/Species/Reptiloids/Fragonborn.md",
@@ -200,7 +201,6 @@
     "Rule stuff/Species/Default/Beastkin/Catkin ― Children of Meoworeezzy.md",
     "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
     "Rule stuff/Species/Default/Beastkin.md",
-    "Rule stuff/Species/Default/Beastkin/Cowkin ― Children of Boss Taro.md",
     "Rule stuff/Species/Default/Beastkin/Horsekin ― Children of Bojohn.md",
     "Rule stuff/Species/Default/Beastkin/Ratkin ― Children of Nurgle.md",
     "Rule stuff/Species/Default/Beastkin/Harekin ― Children of Rabbiauny.md",
