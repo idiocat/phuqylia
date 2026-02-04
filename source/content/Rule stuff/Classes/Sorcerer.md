@@ -36,7 +36,7 @@ Starting at lvl 5, you gain your heritage feature. If your species has planar af
 
 **Level 3: Fragonic Constitution**. The magic in your body is stored in a fat-like magic layer. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Some magic accumulates into local bloating points. When you take damage, as a reaction you can expend any number of hit dice to cast a spell of {hit dice used} lvl, but less than your maximum lvl spellslot, without expending a spellslot, or a cantrip (1 die). The spell can't have M that is consumed or has a cost, and ignores VS; the spell can't have concentration; if the spell needs a target, the target is semi-random (e.g., a harmful spell will aim at enemies).
+Some magic accumulates into local bloating points. When you take damage, as a reaction you can expend any number of hit dice to cast a spell of {hit dice used} lvl, but less than your maximum lvl spellslot, without expending a spellslot, or a cantrip (1 die). The spell can't have M that has a specific cost, and ignores VS; the spell can't have concentration; if the spell needs a target, the target is semi-random (e.g., a harmful spell will aim at enemies).
 
 **Level 3: Fragonic Spells**. When you reach a Sorcerer level specified in the Fragonic Spells table, you thereafter always have the listed spells prepared.
 

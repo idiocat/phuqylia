@@ -7,7 +7,7 @@
 
 **Watery**. You’re a moist boy. You need some water on your skin at least once a week; if you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of exhaustion at the end of that day. You can only recover from this exhaustion through magic or by immersing yourself in water for at least 1 hour. Also, you can breathe air and water.
 
-**Fishery Weaponry**. You have proficiency with tridents and you learn 1 its mastery.
+**Fishery Weaponry**. You have prof. with tridents and you learn 1 mastery. ==When you finish a long rest you can switch to a prof. with a diff. Versatile weapon and diff. mastery.== The mastery from this feature must apply to a weapon from this feature.
 
 **Depth Dweller**. You have cold resistance.
 

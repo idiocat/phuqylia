@@ -1,27 +1,20 @@
-Beastkin live in tribes, on the ruins of the human kingdoms. Their life expectancy is 80 years, they also have
+
+* **Creature Type**: Humanoid (Default)
+* **Life expectancy**: 80 years
+
 **Primal Affinity**. Choose a skill you're proficient in. Whenever you roll a skill check, add d6. You can change this skill once a week.
 
-You can choose one of these species from the books:
-Hadozee (Monkin)
-Tabaxi (Catkin)
-Leonin (Lionkin)
-Vulpin (Foxkin)
-Minotaur (Cowkin)
-Bearfolk (....)
-Loxodon (Elephankin)
+**No Hobo**. You can rest in the wilderness comfortably without a camp or even a bedroll, unless the weather conditions are extreme.
 
-Or one of these:
-Giff (Hippokin) ??
-Lupin (Wolfkin)
 
-Bats
-Horses
-Raccoons
-Deers
-Rats
-Stoats
-Rabbits
-Boars
-Camels
-Fennec foxes
-HONEY BADGERS
+[[Batkin ― Children of Breuwhine]]
+[[Bearkin ― Children of Ursulakim]]
+[[Catkin ― Children of Meoworeezzy]]
+[[Cowkin ― Children of Boss Taro]]
+[[Elephankin ― Children of Kanesha]]
+[[Foxkin ― Children of Vulpinsie]]
+[[Harekin ― Children of Rabbiauny]]
+[[Horsekin ― Children of Bojohn]]
+[[Monkin ― Children of Mankiavelli]]
+[[Ratkin ― Children of Nurgle]]
+[[Wolfkin ― Children of Lupensil]]

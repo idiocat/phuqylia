@@ -2,7 +2,7 @@
 
 **Fey features**. You have antennas, faceted eyes, etc. (at least one).
 
-**Fey Step**. As a bonus action, you can teleport up to 30 ft to an unoccupied space you can see, once per long rest. When you reach lvl 3, your Fey Step gains an additional effect based on your season:
+**Fey Step**. As a bonus action, you can teleport up to 30 ft to an unoccupied space you can see, once per short rest. When you reach lvl 3, your Fey Step gains an additional effect based on your season:
 
 *Autumn*. Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must roll a wis save; on success: take d6 psychic damage, on fail: be charmed by you for 1 minute, or until you or your companions deal any damage to it.
 
@@ -12,7 +12,7 @@
 
 *Summer*. Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes {prof.} fire damage. Objects take double the damage and are set on fire (not optional).
 
-**Fey Wild Whims**\*. 
+**Fey Wild Whims**\*. You can change your season on a short rest, adapting and gaining the respective benefits.
 
 *Autumn*. Your movement is increased by 5 feet. Also, you know Prestidigitation cantrip.
 
@@ -25,7 +25,7 @@
 **Trance**. [[Trance]].
 
 
-\** **Breath Weapon**. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a dex save. On fail: take 1d10 ==fire== damage; on success: take half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10). You can use this ==once per long rest.==
+\** **Breath Weapon**. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a dex save. On fail: take 1d10 ==fire== damage; on success: take half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10). You can use this ==once per short rest.==
 
 \* The elves of Elakalyn are rather whimsical, changing their personality depending on their season. The following (kinda) tables offer personality suggestions for elves of Elakalyn for each season. You can roll on the tables or use them as inspiration for characteristics of your own.
 
