@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin.md",
+                "file": "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beastkin"
+              "title": "Batkin ― Children of Breuwhine"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin.md",
+                "file": "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beastkin"
+              "title": "Backlinks for Batkin ― Children of Breuwhine"
             }
           },
           {
@@ -192,6 +192,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Rule stuff/Species/Default/Beastkin.md",
+    "Rule stuff/Species/Default.md",
+    "Rule stuff/Species/Default/Beastkin/Harekin ― Children of Rabbiauny.md",
     "Rule stuff/Species/Default/Beastkin/Cowkin ― Children of Boss Taro.md",
     "Rule stuff/Species/Insectoids/Antalians.md",
     "Rule stuff/Species/Insectoids/Shrimple.md",
@@ -200,10 +203,8 @@
     "Rule stuff/Species/Default/Beastkin/Wolfkin ― Children of Lupensil.md",
     "Rule stuff/Species/Default/Beastkin/Catkin ― Children of Meoworeezzy.md",
     "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
-    "Rule stuff/Species/Default/Beastkin.md",
     "Rule stuff/Species/Default/Beastkin/Horsekin ― Children of Bojohn.md",
     "Rule stuff/Species/Default/Beastkin/Ratkin ― Children of Nurgle.md",
-    "Rule stuff/Species/Default/Beastkin/Harekin ― Children of Rabbiauny.md",
     "Rule stuff/Species/Default/Beastkin/Bearkin ― Children of Ursulakim.md",
     "Rule stuff/Species/Default/Beastkin/Elephankin ― Children of Kanesha.md",
     "Rule stuff/Species/Default/Gnomes.md",
@@ -216,7 +217,6 @@
     "Rule stuff/Species/Default/Beastkin/Monkin ― Children of Mankiavelli.md",
     "Rule stuff/Species/Default/Elves/Elves of Elakalyn.md",
     "Rule stuff/Species/Default/Elves/Elves of Chaemoila.md",
-    "Rule stuff/Species/Default.md",
     "Rule stuff/Species/Insectoids.md",
     "Rule stuff/Spells",
     "Rule stuff/Species/Default/Elves",
