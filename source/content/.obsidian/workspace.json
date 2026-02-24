@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore stuff/Regions/Beastkin Clusterpack.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beastkin Clusterpack"
+              "title": "index"
             }
           }
         ],
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore stuff/Regions/Beastkin Clusterpack.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beastkin Clusterpack"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -176,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore stuff/Regions/Beastkin Clusterpack.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Beastkin Clusterpack"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "0815b28f6fb14f25",
   "lastOpenFiles": [
-    "Rule stuff/Species/Beastkin.md",
     "Lore stuff/Regions/Beastkin Clusterpack.md",
+    "Rule stuff/Species/Beastkin.md",
     "Lore stuff/Regions/Elven-Goblin High and Wide Kingdom Botania.md",
     "Lore stuff/About world.md",
     "index.md",
