@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule stuff/Weapon Changes.md",
+                "file": "Lore stuff/Regions/Beastkin Clusterpack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon Changes"
+              "title": "Beastkin Clusterpack"
             }
           }
         ],
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rule stuff/Weapon Changes.md",
+                "file": "Lore stuff/Regions/Beastkin Clusterpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Weapon Changes"
+              "title": "Backlinks for Beastkin Clusterpack"
             }
           },
           {
@@ -176,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rule stuff/Weapon Changes.md",
+                "file": "Lore stuff/Regions/Beastkin Clusterpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weapon Changes"
+              "title": "Outgoing links from Beastkin Clusterpack"
             }
           },
           {
@@ -235,8 +235,13 @@
   },
   "active": "0815b28f6fb14f25",
   "lastOpenFiles": [
-    "Rule stuff/Homebrew Rules.md",
+    "Rule stuff/Species/Beastkin.md",
+    "Lore stuff/Regions/Beastkin Clusterpack.md",
+    "Lore stuff/Regions/Elven-Goblin High and Wide Kingdom Botania.md",
+    "Lore stuff/About world.md",
+    "index.md",
     "Rule stuff/Weapon Changes.md",
+    "Rule stuff/Homebrew Rules.md",
     "Rule stuff/Trance.md",
     "Rule stuff/Spell Changes.md",
     "Rule stuff/Masteries (WIP).md",
@@ -256,11 +261,6 @@
     "Lore stuff/Regions/Fragonborn Moorings (wip).md",
     "Lore stuff/Regions/Dwarven Tunneled States of Burdum (wip).md",
     "Lore stuff/Regions/Burdum-Phubotabolamayas Shadow Zone (wip).md",
-    "Lore stuff/Regions/Antalian Hives (wip).md",
-    "Lore stuff/Regions/All These City-States (wip).md",
-    "Lore stuff/Regions/Beastkin Clusterpack.md",
-    "Lore stuff/About world.md",
-    "Lore stuff/Regions/Elven-Goblin High and Wide Kingdom Botania.md",
     "Rule stuff/Backgrounds",
     "Rule stuff/Feats",
     "Lore stuff/Regions",

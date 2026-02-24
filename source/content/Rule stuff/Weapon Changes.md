@@ -1,6 +1,6 @@
 **Adoptability**. Some weapons can deal different type of damage then assigned (as long it makes sense) at the cost of reducing the damage die (e.g., instead of swinging a shortsword, one could thrust it dealing d4 piercing; or hit with a blunt side of a battleaxe, dealing d6/d8 bludgeoning).
 
-**Versatility**. Most weapons can benefit from both str and dex; when calculating bonus to your attack and damage rolls: (d20 + prof.) or (damage dice) + str mod + dex mod, str and dex mods each can't be more than prof., with some exceptions: finesse and ranged weapons have no cap on dex, heavy weapons have no cap on str. If one mod is negative, as long as the other one is positive, the negative one doesn't apply.
+**Versatility**. Most weapons can benefit from both str and dex; when calculating bonus to your attack and damage rolls: (d20 + prof.) or (damage dice) + str mod + dexgi mod, str and dex mods each can't be more than prof., with some exceptions: finesse and ranged weapons have no cap on dex, heavy weapons have no cap on str. If one mod is negative, as long as the other one is positive, the negative one doesn't apply.
 
 **Bows**. Longbows and shortbows have dex requirement to wield: 13 and 11 respectively. 
 
