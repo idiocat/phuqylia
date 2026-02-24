@@ -25,3 +25,5 @@
 | 6          | Demonic    | Bludgeoning, Fire, Force, Necrotic                             |
 | 1, 3, 5, 7 | Aberrant   | Necrotic, Radiant, Psychic, Acid                               |
 | 8          | Primordial | Bludgeoning, Piercing, Slashing, Cold, Fire, Lightning, Poison |
+
+**Darkvision**. You have darkvision of 30 ft. If you roll cateyes and none of the numbers are odd, you lose darkvision until you roll an odd number on cateyes.

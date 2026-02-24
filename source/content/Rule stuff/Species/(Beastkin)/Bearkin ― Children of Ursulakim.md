@@ -10,7 +10,7 @@
 **Muscle Armour**. Your AC is {10 + str. mod + dex. mod}.
 
 **Maul the Feckin Eejits**. Whenever you hit using one of your natural weapons, until the end of your turn or until you miss an attack, the damage of your natural weapons is increased by {prof.}. Also, you can use your bonus action to make an attack with one of your natural weapons.
-Also, as part of an attack with your natural weapons you can increase the damage of your natural weapons by {prof.} for a minute. When the minute expires, you gain a lvl of exhaustion.
+Also, as part of an attack with your natural weapons you can give yourself adv. on attacks with natural weapons for a minute; when the minute expires, you gain a lvl of exhaustion.
 
 **Unstoppable**. You have proficiency in Athletics. Also, when you take dash action, until the end of your turn you can move into a space of any hostile creature of your size or smaller, pushing them 5 ft away; you can push up to {str. mod} times per dash.
 

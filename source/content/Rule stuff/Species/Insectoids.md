@@ -1,2 +1,0 @@
-* [[Antalians]]
-* [[Shrimple]]

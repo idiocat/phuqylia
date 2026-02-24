@@ -7,4 +7,4 @@
 
 **Noncommittal**. You have prof. in acrobatics.
 
-**Omnipresent**. You can cast Beast Sense and Animal Messenger, each once per long rest or as rituals. Beast Sense can target unwilling beast if they fail a cha save or willing beastkin. Your spellcasting ability for this spells is wisdom.
+**Omnipresent**. You can cast Beast Sense and Animal Messenger, each once per long rest or as rituals. Beast Sense can also target unwilling beast if they fail a cha save or willing beastkin. Your spellcasting ability for these spells is wisdom.

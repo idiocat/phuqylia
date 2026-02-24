@@ -8,8 +8,8 @@ To determine, which spirit is currently bound to you, roll a d6. You can choose 
 | -------------- | ------- |
 | Fey            | 1, 4, 6 |
 | Celestial      | 2       |
-| Demonic        | 3       |
-| Aberrant*      | 5       |
+| Demonic        | 5       |
+| Aberrant*      | 3       |
 **Planar form**. You can use a bonus action and expand a charge of wild shape in order to receive a spellcasting related bonus ([[Magic Bullshit]]). Choose a bonus.
 
 Also, your spellcasting ability is either wisdom or charisma.

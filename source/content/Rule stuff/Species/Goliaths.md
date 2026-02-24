@@ -16,5 +16,5 @@
 * **The Gilded Wastes** (desert, scrubland, savanna). When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.
 * **==The Verdant Veils==** (temperate forest, rainforest, boreal forest). When you take a hide action, you can create an illusion and make yourself look like a tree of about the same size. You have advantage against being discovered while hidden in this way.
 * **The Fluid Borders** (wetlands, coastlines, islands). As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.
-* **The Boulder Bones** (hills, mountains, caves). When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
+* **The Bouldered Bones** (hills, mountains, caves). When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
 

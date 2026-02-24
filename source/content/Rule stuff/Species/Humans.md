@@ -3,6 +3,8 @@
 **Life expectancy**: 80 years
 **Speed**: 30 ft
 
+**Affinity**. Choose one (check [[Ancestries]] for details). 
+
 Humans are all over the place, and all in various environments and with unique traditions. Pick any human variant from the books, ig
 
 Some humans are born blessed by a celestial entity: [[Aasimars]].

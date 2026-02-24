@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "46c07804974e75e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
+                "file": "Rule stuff/Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Batkin ― Children of Breuwhine"
+              "title": "Languages"
+            }
+          },
+          {
+            "id": "fe1a7266c7fad48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore stuff/Regions/All These City-States (wip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All These City-States (wip)"
+            }
+          },
+          {
+            "id": "f4f77e2b3f681802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore stuff/Regions/Antalian Hives (wip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antalian Hives (wip)"
+            }
+          },
+          {
+            "id": "0815b28f6fb14f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rule stuff/Weapon Changes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapon Changes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "9e3aacf9d3109983",
@@ -33,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin/Wolfkin ― Children of Lupensil.md",
+                "file": "Lore stuff/Regions/Fragonborn Moorings (wip).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wolfkin ― Children of Lupensil"
+              "title": "Fragonborn Moorings (wip)"
             }
           }
         ]
@@ -98,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 432.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -114,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
+                "file": "Rule stuff/Weapon Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Batkin ― Children of Breuwhine"
+              "title": "Backlinks for Weapon Changes"
             }
           },
           {
@@ -133,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Rule stuff/Weapon Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Weapon Changes"
             }
           },
           {
@@ -190,43 +233,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "0815b28f6fb14f25",
   "lastOpenFiles": [
-    "Rule stuff/Species/Default/Beastkin.md",
-    "Rule stuff/Species/Default.md",
-    "Rule stuff/Species/Default/Beastkin/Harekin ― Children of Rabbiauny.md",
-    "Rule stuff/Species/Default/Beastkin/Cowkin ― Children of Boss Taro.md",
-    "Rule stuff/Species/Insectoids/Antalians.md",
-    "Rule stuff/Species/Insectoids/Shrimple.md",
-    "Rule stuff/Species/Reptiloids/Fragonborn.md",
-    "Rule stuff/Species/Default/Beastkin/Foxkin ― Children of Vulpinsie.md",
-    "Rule stuff/Species/Default/Beastkin/Wolfkin ― Children of Lupensil.md",
-    "Rule stuff/Species/Default/Beastkin/Catkin ― Children of Meoworeezzy.md",
-    "Rule stuff/Species/Default/Beastkin/Batkin ― Children of Breuwhine.md",
-    "Rule stuff/Species/Default/Beastkin/Horsekin ― Children of Bojohn.md",
-    "Rule stuff/Species/Default/Beastkin/Ratkin ― Children of Nurgle.md",
-    "Rule stuff/Species/Default/Beastkin/Bearkin ― Children of Ursulakim.md",
-    "Rule stuff/Species/Default/Beastkin/Elephankin ― Children of Kanesha.md",
-    "Rule stuff/Species/Default/Gnomes.md",
-    "Rule stuff/Classes/Sorcerer.md",
     "Rule stuff/Homebrew Rules.md",
-    "Rule stuff/Species/Reptiloids/Nagas.md",
-    "Rule stuff/Species/Default/Aasimars.md",
-    "Rule stuff/Species/Reptiloids.md",
+    "Rule stuff/Weapon Changes.md",
+    "Rule stuff/Trance.md",
+    "Rule stuff/Spell Changes.md",
+    "Rule stuff/Masteries (WIP).md",
+    "Rule stuff/Magic Items.md",
+    "Rule stuff/Magic Bullshit.md",
+    "Rule stuff/Languages.md",
     "Rule stuff/Ancestries.md",
-    "Rule stuff/Species/Default/Beastkin/Monkin ― Children of Mankiavelli.md",
-    "Rule stuff/Species/Default/Elves/Elves of Elakalyn.md",
-    "Rule stuff/Species/Default/Elves/Elves of Chaemoila.md",
-    "Rule stuff/Species/Insectoids.md",
+    "Rule stuff/Spells/The Wandering Shaman Bastian Kruhl.md",
+    "Rule stuff/Spells/Druidic Wiz.md",
+    "Rule stuff/Species/Orcs and Half-orcs (xoxo).md",
+    "Lore stuff/Regions/Wild Magic Anomaly Zone (wip).md",
+    "Lore stuff/Regions/Shrimple Burrow (wip).md",
+    "Lore stuff/Regions/Orcan Territories (wip).md",
+    "Lore stuff/Regions/Nagan Hunting Grounds (wip).md",
+    "Lore stuff/Regions/Independent Isles of Hhwaii (wip).md",
+    "Lore stuff/Regions/Goliath-Gnomic Commonwealth (wip).md",
+    "Lore stuff/Regions/Fragonborn Moorings (wip).md",
+    "Lore stuff/Regions/Dwarven Tunneled States of Burdum (wip).md",
+    "Lore stuff/Regions/Burdum-Phubotabolamayas Shadow Zone (wip).md",
+    "Lore stuff/Regions/Antalian Hives (wip).md",
+    "Lore stuff/Regions/All These City-States (wip).md",
+    "Lore stuff/Regions/Beastkin Clusterpack.md",
+    "Lore stuff/About world.md",
+    "Lore stuff/Regions/Elven-Goblin High and Wide Kingdom Botania.md",
+    "Rule stuff/Backgrounds",
+    "Rule stuff/Feats",
+    "Lore stuff/Regions",
+    "Lore stuff/Religions",
+    "Lore stuff",
+    "Rule stuff/Species/Others",
     "Rule stuff/Spells",
-    "Rule stuff/Species/Default/Elves",
-    "Rule stuff/Species/Default/Beastkin",
-    "Rule stuff/Species/Reptiloids",
-    "Rule stuff/Species/Insectoids",
-    "Rule stuff/Species/Default",
-    "Rule stuff/Species",
-    "Rule stuff/Classes",
-    "Rule stuff",
-    "Meta stuff"
+    "Rule stuff/Species/(Elves)",
+    "Rule stuff/Species/(Beastkin)",
+    "Rule stuff/Species/Reptiloids"
   ]
 }

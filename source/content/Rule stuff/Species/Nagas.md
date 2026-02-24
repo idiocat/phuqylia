@@ -1,7 +1,9 @@
 **Creature Type**: Humanoid (Reptilian)
-**Size**: Medium (about 5 ft tall when upright, but the total length of their bodies, head to tail, ranges from 10 to as much as 20 ft)
+**Size**: ==Large== (about 25 ft head to tail)
 **Life expectancy**: 200 years
-**Speed**: 20 ft (walk, swim)
+**Speed**: ==30== ft (walk, swim)
+
+**Darkvision**. You have darkvision of 60 ft.
 
 **Slithery**. Instead of legs, you have a tail and you move around by slithering. Your movement is doubled in water and on wet surfaces. However, you cannot accelerate before jumping.
 
@@ -11,6 +13,6 @@
 
 **Depth Dweller**. You have cold resistance.
 
-**All These Gifts**. Choose 1 uncommon or 2 common magic items. You 'ave them! If they require attunement, it doesn't take up your attunement slots.
+**==Aberrant Hunter==**. You can digest pretty much anything organic. You have resistance to poison, to being poisoned, and to aberrant influence. 
 
-**Aberrant Hunter**. You can cast Clairvoyance and Identify using All These Gifts in place of M component and without using a spellslot, once per long rest each. If All These Gifts is a spellcasting focus, you can cast spells from this feature using any spellslot you have.
+**All These Gifts**. Choose 1 uncommon or 2 common magic items. You 'ave them! If they require attunement, it doesn't take up your attunement slots.

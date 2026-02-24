@@ -7,7 +7,7 @@
 
 **Gnomish Cunning**. You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
 
-**Gnomish Nimbleness**. You can move through the space of any creature that is a size larger than you, and moving through creatures doesn't count as difficult terrain. Also, you can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
+**Gnomish Nimbleness**. You can move through the space of any creature that is a size larger than you, but you can't stop in the same space unless the creature is friendly to you. Also, you can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
 
 **Land Affinity**. Gnomes form a close connection to the place of their living. Choose one of the following benefits; you can change it after you have a long rest in the respective lands.
 
