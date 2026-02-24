@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Rule stuff/Species/(Beastkin)/Monkin ― Children of Mankiavelli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Monkin ― Children of Mankiavelli"
             }
           }
         ],
@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore stuff/Regions/Fragonborn Moorings (wip).md",
+                "file": "Rule stuff/Species/(Beastkin)/Foxkin ― Children of Vulpinsie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragonborn Moorings (wip)"
+              "title": "Foxkin ― Children of Vulpinsie"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Rule stuff/Species/(Beastkin)/Monkin ― Children of Mankiavelli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Monkin ― Children of Mankiavelli"
             }
           },
           {
@@ -176,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Rule stuff/Species/(Beastkin)/Monkin ― Children of Mankiavelli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Monkin ― Children of Mankiavelli"
             }
           },
           {
@@ -235,11 +235,16 @@
   },
   "active": "0815b28f6fb14f25",
   "lastOpenFiles": [
-    "Lore stuff/Regions/Beastkin Clusterpack.md",
+    "Rule stuff/Species/(Beastkin)/Foxkin ― Children of Vulpinsie.md",
     "Rule stuff/Species/Beastkin.md",
-    "Lore stuff/Regions/Elven-Goblin High and Wide Kingdom Botania.md",
+    "Rule stuff/Species/(Beastkin)/Wolfkin ― Children of Lupensil.md",
+    "Lore stuff/Regions/Fragonborn Moorings (wip).md",
+    "Rule stuff/Species/(Beastkin)/Monkin ― Children of Mankiavelli.md",
+    "Rule stuff/Species/(Beastkin)/Catkin ― Children of Meoworeezzy.md",
+    "Lore stuff/Regions/Beastkin Clusterpack.md",
     "Lore stuff/About world.md",
     "index.md",
+    "Lore stuff/Regions/Elven-Goblin High and Wide Kingdom Botania.md",
     "Rule stuff/Weapon Changes.md",
     "Rule stuff/Homebrew Rules.md",
     "Rule stuff/Trance.md",
@@ -256,11 +261,6 @@
     "Lore stuff/Regions/Shrimple Burrow (wip).md",
     "Lore stuff/Regions/Orcan Territories (wip).md",
     "Lore stuff/Regions/Nagan Hunting Grounds (wip).md",
-    "Lore stuff/Regions/Independent Isles of Hhwaii (wip).md",
-    "Lore stuff/Regions/Goliath-Gnomic Commonwealth (wip).md",
-    "Lore stuff/Regions/Fragonborn Moorings (wip).md",
-    "Lore stuff/Regions/Dwarven Tunneled States of Burdum (wip).md",
-    "Lore stuff/Regions/Burdum-Phubotabolamayas Shadow Zone (wip).md",
     "Rule stuff/Backgrounds",
     "Rule stuff/Feats",
     "Lore stuff/Regions",
