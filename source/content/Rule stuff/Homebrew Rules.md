@@ -32,7 +32,7 @@
 
 **Got the High Ground**. Ranged and thrown weapon range is increased depending on the vertical distance above the target. Normal range += vertical height; long range += 2x vertical height. 
 
-**[[Masteries (WIP)]]**. Martial weapons have 2 masteries. Each mastery must be learnt individually, and only one mastery can be applied to an attack (must choose before rolling an attack, except for Graze Mastery).
+**[[Masteries]]**. Martial weapons have 2 masteries. Each mastery must be learnt individually, and only one mastery can be applied to an attack (must choose before rolling an attack, except for Graze Mastery).
 
 **Other [[Weapon Changes]]**. Some weapons are useful now, hopefully.
 

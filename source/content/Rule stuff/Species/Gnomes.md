@@ -16,4 +16,4 @@
 * **The Gilded Wastes** (desert, scrubland, savanna). You always know the direction to the nearest significant source of fresh water within 10 miles. Also, you can find enough moisture and nutrients to sustain one small/medium creature for a day.
 * **The Verdant Veils** (temperate forest, rainforest, boreal forest). You have climbing speed equal to your movement.
 * **The Fluid Borders** (wetlands, coastlines, islands). You always know where the north is and the phase of the moon. Also, you can predict the weather in these lands (not so many lands tho, lol) for the next 24 hours.
-* **The Boulder Bones** (hills, mountains, caves). When standing on stone surface you have advantage on saves against being pushed or knocked prone.
+* **The Boulder Bones** (hills, mountains, caves). You have advantage on saves against being pushed or knocked prone.

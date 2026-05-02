@@ -3,7 +3,7 @@
 
 **Darkvision**. You have darkvision of 60 ft.
 
-**Bite**. You have sharp fangs that enable you to make natural bite attacks. You can choose to bite as an unarmed strike that deals 1d6 points of piercing damage, which can be calculated using either your Strength or Dexterity modifier for both the attack roll and damage bonus.
+**Bite**. Your sharp fangs are natural weapons. They deal {1d6 + str mod + dex mod} piercing damage.
 
 **Evasive**. You add your Int mod. to all Dex saves.
 
