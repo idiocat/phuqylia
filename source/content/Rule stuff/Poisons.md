@@ -5,5 +5,5 @@ When poison is applied to a weapon, the weapon receives a few potency charges, e
 
 poison dc = 8 + prof. + int mod.
 
-caustic poison (4). deals 1 damage per potency at the start of the turn.
+caustic poison (4). deals 1 damage per potency at the start of the turn. this damage is non-lethal.
 debilitating poison (3). applies weakened.
